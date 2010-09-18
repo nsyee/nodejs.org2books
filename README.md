@@ -16,6 +16,8 @@ copyrights of these belong to each organizations. see web sites above.
 After installing requirements, run following commands.
 
 	# get resources.
+	$git clone http://github.com/nsyee/nodejs.org2books.git
+	$cd nodejs.org2books
 	$git submodule update --init
 
 	# publish a books/nodejs.org.pdf.
