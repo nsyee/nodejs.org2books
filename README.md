@@ -21,7 +21,7 @@ After installing requirements, run following commands.
 	$git submodule update --init
 
 	# publish a books/nodejs.org.pdf.
-	$cd nodejs.org/doc
+	$cd nodejs.org
 	$./configure
 	$make doc
 	$cd -
