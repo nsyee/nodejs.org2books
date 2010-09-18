@@ -1,6 +1,7 @@
 # nodejs.org2books
-A script to convert Node.js Documentation to some E-book formats.
-This supports pdf/epub/mobi formats, but epub and mobi are alpha quality currently.
+A script to convert Node.js documentation to some E-book formats(pdf/epub/mobi).
+
+This allows you to refer API docs with mobile platforms like iOS/Android/Kindle.
 
 see [here](http://nodejs.org) about Node.js.
 
@@ -13,7 +14,7 @@ If you use OSX, you need to install the command line tools, adding to installati
 - books/nodejs.org.(pdf|epub|mobi): original documentation. [http://nodejs.org](http://nodejs.org)
 - books/nodejs.org-ja.(pdf|epub|mobi): Japanese translation. [http://nodejs.jp/nodejs.org_ja](http://nodejs.jp/nodejs.org_ja)
 
-Copyrights of these belong to each organizations. see web sites above.
+note: epub and mobi are alpha quality currently. Copyrights of these belong to each organizations. see web sites above.
 
 ## How to compile
 After installing requirements, run following commands.
