@@ -14,6 +14,8 @@ index.pdf:
 		--extra-css '#logo {display:none;} \
 					 #toc {display:none;} \
 					 #content {margin-left:30px;} \' \
+		--margin-top 0 \
+		--margin-bottom 0 \
 		--page-breaks-before / \
 		--cover cover.jpg
 
@@ -27,6 +29,8 @@ api.pdf:
 					 #man h1 {height:0px;} \
 					 ol.man {display:none;} \
 					 #toc {display:none;}' \
+		--margin-top 0 \
+		--margin-bottom 0 \
 		--page-breaks-before /
 
 nodejs.org.pdf:
@@ -67,6 +71,8 @@ index-ja.pdf:
 					 #content {margin-left:30px;} \
 					 #introduction {margin-top:80px;} \
 					 #copyright {top:10pt;height:30px;position:absolute;}' \
+		--margin-top 0 \
+		--margin-bottom 0 \
 		--page-breaks-before / \
 		--cover cover.jpg
 
@@ -81,6 +87,8 @@ api-ja.pdf:
 					 ol.man {display:none;} \
 					 #toc {display:none;} \
 					 #copyright {top:10pt;height:26px;position:absolute;}' \
+		--margin-top 0 \
+		--margin-bottom 0 \
 		--page-breaks-before /
 
 nodejs.org-ja.pdf:
